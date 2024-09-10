@@ -3,7 +3,7 @@
 
 ## 3학년
 ### 2학기
-- 머신러닝
+- (머신러닝)[https://github.com/DainoJung/Academic/tree/main/Machine-learning]
 - 데이터베이스활용
 - 경영정보
 - 데이터분석프로그래밍
