@@ -47,51 +47,51 @@ AI를 통해 얼굴 표정이나 말투를 통해 감정을 표현하는 것은 
 
 ### 집중,흥미로움
 
-![적은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/5329ef55-b211-4623-a15a-3962acae933b/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.06.45.png)
+![적은 데이터](https://github.com/user-attachments/assets/030b0fa6-b58a-47cb-9ed5-fd0153a4e253)
 
 적은 데이터
 
-![많은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/ef4277bd-1e5e-47e6-911e-02880dd7e6d7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.06.52.png)
+![많은 데이터](https://github.com/user-attachments/assets/94d5fce3-6aac-4e36-9375-3bb453cafe29)
 
 많은 데이터
 
 ### 집중,차분함
 
-![적은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/e06923e7-2189-4329-a5d2-16e23a098076/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.13.png)
+![적은 데이터](https://github.com/user-attachments/assets/9ae28cd2-fc58-46fc-af1f-10149a7c3d7d)
 
 적은 데이터
 
-![많은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/116f7576-55d5-42e3-874c-98b253542865/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.05.png)
+![많은 데이터](https://github.com/user-attachments/assets/8ac10262-817c-4757-949e-1f8e6c2bce60)
 
 많은 데이터
 
 ### 집중하지 않음, 차분함
 
-![적은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/af28f787-c9ed-4ec5-a4d4-aa3e2ae6d259/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.22.png)
+![적은 데이터](https://github.com/user-attachments/assets/27aa5711-4f6a-4fcb-b290-84e2cde5068e)
 
 적은 데이터
 
-![많은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/db866b6f-3a90-4e24-aa1e-2fd484bdbc92/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.29.png)
+![많은 데이터](https://github.com/user-attachments/assets/a8dee245-fdb4-4bee-ab61-d868d1a6fbf1)
 
 많은 데이터
 
 ### 집중하지 않음, 지루함
 
-![적은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/03595c68-bcff-4b36-ba76-59c6865919e9/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.49.png)
+![적은 데이터](https://github.com/user-attachments/assets/d19435f5-196a-4dfc-8df0-a2a96cde3a6f)
 
 적은 데이터
 
-![많은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/f6cae46d-8d1b-4114-a64d-86b48849221a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.09.41.png)
+![많은 데이터](https://github.com/user-attachments/assets/fbe9b7c3-82c1-420c-97f6-f38bc294e7d1)
 
 많은 데이터
 
 ### 졸음
 
-![적은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/e674a896-941c-40c8-acc6-694460d88efb/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.05.02.png)
+![적은 데이터](https://github.com/user-attachments/assets/bdc2e345-f1a9-4a31-9475-a145cc56ef06)
 
 적은 데이터
 
-![많은 데이터](https://prod-files-secure.s3.us-west-2.amazonaws.com/75d16028-da13-41e0-869e-ebb2fbfc614c/12d74783-ad4f-4bca-89d3-3a8244e0b26d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-09-11_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.05.51.png)
+![많은 데이터](https://github.com/user-attachments/assets/395792c6-d479-400b-8d8c-cbe5198d02e7)
 
 많은 데이터
 
