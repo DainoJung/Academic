@@ -15,7 +15,7 @@
 
 | 학기 |   과목   |
 |:-----:|:--------:|
-|   3-1   |   머신러닝  | 
+|   3-1   |   (머신러닝)[https://github.com/DainoJung/Academic/tree/main/Machine-learning]  | 
 |   3-1   |   데이터분석 프로그래밍   | 
 |   3-1   |   모바일앱 프로그래밍   | 
 |   3-1   |   클라우드 프로그래밍 | 
@@ -35,5 +35,5 @@
 
 | 진행 여부 |   과목   |       주제          |
 |:-----:|:--------:|-----------------------|
-|   ✅   |   머신러닝   | Teachable Machine을 활용한 집중력 예측 모델  |
+|   ✅   |   머신러닝   | (Teachable Machine을 활용한 집중력 예측 모델)[https://github.com/DainoJung/Academic/blob/main/Machine-learning/subject/teachble-machine-modeling.md]  |
 
