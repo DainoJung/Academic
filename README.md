@@ -10,8 +10,8 @@
       content="Easy and convenient way to check real-time cryptocurrency price change along with the live charts"
 />
 
-# Archiving
-배운것들을 아카이빙합니다.
+# 학업
+경영정보학과에 다니면서 배운것들을 기록합니다.
 
 ## 📒 과제 제출 방식
 1. Archiving 리포지토리 fork / clone
@@ -27,54 +27,6 @@
 
 </br>
 
-### 👩‍👧‍👦 구성원
-
-<center>
-<table  width="100%">
-  <tr>
-    <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/urstory"  width="100px;"  alt=""/>
-    </td>
-    <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/wisdom08"  width="100px;"  alt=""/>
-    </td>
-    <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/segye"  width="100px;"  alt=""/>
-    </td>
-    <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/DainoJung"  width="100px;"  alt=""/>
-    </td>
-    <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/mirikwon427"  width="100px;"  alt=""/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/urstory">
-            <div>토토</div>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wisdom08">
-            <div>윈</div>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/segye">
-            <div>월드</div>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/DainoJung">
-            <div>다이노</div>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mirikwon427">
-            <div>메이리</div>
-        </a>
-    </td>
-  </tr>
 </table>
 
 </br>
