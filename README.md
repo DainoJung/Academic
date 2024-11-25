@@ -31,8 +31,6 @@
 
 ## 📖 커리큘럼
 
-👏 스터디 정규 시간 : 매주 수요일 19시 (펴나니 사무실)
-
 | 진행 여부 |   과목   |       주제          |
 |:-----:|:--------:|-----------------------|
 |   ✅   |   머신러닝   | [Teachable Machine을 활용한 집중력 예측 모델](https://github.com/DainoJung/Academic/blob/main/Machine-learning/subject/teachble-machine-modeling.md)  |
